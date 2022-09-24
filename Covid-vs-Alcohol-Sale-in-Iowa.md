@@ -1,6 +1,5 @@
 Covid’s effect on Alcohol Sale in Iowa
 ================
-Shuqin Tang
 6/8/2022
 
 ``` r
