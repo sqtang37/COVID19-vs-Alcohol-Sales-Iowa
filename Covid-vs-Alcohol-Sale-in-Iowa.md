@@ -2,6 +2,8 @@ Covid’s effect on Alcohol Sale in Iowa
 ================
 6/8/2022
 
+git tag <r>
+
 ``` r
 library(readr)
 library(ggplot2)
